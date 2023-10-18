@@ -14,3 +14,4 @@ Features:
 Dataset:
 
 -The system uses a movie dataset in CSV format, containing information about movie titles, genres, keywords, taglines, cast, directors, and more.
+![img-3](https://github.com/AlexPanainte/Movie-Recomandation-application/assets/126809877/1f0d4271-e977-4d24-a8ee-1b8b88c9ac02)
